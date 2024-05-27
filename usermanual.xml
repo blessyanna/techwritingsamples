@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<usermanual>
+<title>How to Set Up Your New Vivo Y17 Smartphone: A Step-by-Step Guide</title>
+    <introduction>
+        <paragraph>Welcome to your new Vivo Y17 smartphone! This guide will walk you through the initial setup process to ensure your device is ready to use.</paragraph>
+    </introduction>
+    
+    <section id="1">
+        <title>1. Unboxing Your Vivo Y17</title>
+        <steps>
+            <step>Carefully remove the Vivo Y17 and its accessories from the box.</step>
+            <step>Check the contents to ensure you have the phone, charger, USB cable, earphones, and user manual.</step>
+        </steps>
+    </section>
+    
+    <section id="2">
+        <title>2. Charging Your Device</title>
+        <steps>
+            <step>Connect the USB cable to the charger.</step>
+            <step>Plug the charger into a power outlet.</step>
+            <step>Connect the other end of the USB cable to your Vivo Y17.</step>
+            <step>Let the phone charge until it is fully charged before turning it on for the first time.</step>
+        </steps>
+    </section>
+    
+    <section id="3">
+        <title>3. Powering On Your Vivo Y17</title>
+        <steps>
+            <step>Press and hold the power button on the right side of the phone until the Vivo logo appears.</step>
+            <step>Wait for the phone to boot up. This may take a few minutes.</step>
+        </steps>
+    </section>
+    
+    <section id="4">
+        <title>4. Initial Setup</title>
+        <steps>
+            <step>Select your preferred language and tap "Next".</step>
+            <step>Connect to a Wi-Fi network by selecting the network and entering the password.</step>
+            <step>Sign in with your Google account or create a new one. This is necessary to access the Play Store and other Google services.</step>
+            <step>Set up a screen lock method such as a PIN, password, or pattern for security.</step>
+            <step>Follow the on-screen instructions to complete the setup process, including restoring data from a previous device if applicable.</step>
+        </steps>
+    </section>
+    
+    <section id="5">
+        <title>5. Setting Up Fingerprint and Face Unlock</title>
+        <steps>
+            <step>Go to Settings > Security and Location > Fingerprint.</step>
+            <step>Follow the on-screen instructions to add your fingerprint.</step>
+            <step>For Face Unlock, go to Settings > Security and Location > Face Unlock and follow the instructions.</step>
+        </steps>
+    </section>
+    
+    <section id="6">
+        <title>6. Installing Essential Apps</title>
+        <steps>
+            <step>Open the Play Store and sign in if prompted.</step>
+            <step>Search for and install essential apps like messaging, social media, and productivity tools.</step>
+        </steps>
+    </section>
+    
+    <section id="7">
+        <title>7. Customizing Your Device</title>
+        <steps>
+            <step>Go to Settings > Display to adjust brightness, wallpaper, and screen timeout.</step>
+            <step>Explore Settings > Sound to customize ringtones, notification sounds, and volume levels.</step>
+            <step>Use Settings > Theme to change the overall look and feel of your device.</step>
+        </steps>
+    </section>
+    
+    <conclusion>
+        <paragraph>Congratulations! Your Vivo Y17 is now set up and ready to use. Explore the features and enjoy your new smartphone experience.</paragraph>
+    </conclusion>
+</usermanual>
+
